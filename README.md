@@ -1,3 +1,6 @@
+PHP CLI & FPM Configurations
+============================
+
 Example PHP.ini config files for CLI and FPM. Designed with sane upload limits, security and speed in mind.
 
 
