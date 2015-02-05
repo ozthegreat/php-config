@@ -4,10 +4,13 @@ Example PHP.ini config files for CLI and FPM. Designed with sane upload limits, 
 Things you may wish to change
 -----------------------------
 
-memory_limit = 512M
-post_max_size = 512M
-upload_max_filesize = 500M
-date.timezone = 'Europe/London'
+`memory_limit = 512M`
+
+`post_max_size = 512M`
+
+`upload_max_filesize = 500M`
+
+`date.timezone = 'Europe/London'`
 
 
 
